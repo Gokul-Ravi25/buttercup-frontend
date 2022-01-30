@@ -1,0 +1,26 @@
+.sidebarFriend {
+    margin-bottom: 15px;
+    color: rgb(204,204,204);
+    margin-top: 5px;
+
+  }
+  .sidebarPeopleWrapper{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    align-items: center;
+  }
+  
+  .sidebarFriendImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .sidebarFriendName{
+    font-size: 20px;
+    font-weight: 200px;
+    color: rgb(204,204,204);
+  }
